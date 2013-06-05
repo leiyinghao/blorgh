@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = Blorgh::VERSION
   s.authors     = ["fc-web"]
   s.email       = ["fc-web@g.cn"]
-  s.homepage    = "fc-web"
+  s.homepage    = "http://baidu.com"
   s.summary     = "fc-web"
   s.description = "fc-web."
 
