@@ -1,9 +1,10 @@
 Blorgh::Engine.routes.draw do
 
- resources :posts 
+ root :to => "posts#index"
+ 
  resources :posts do
    resources :comments
  end
- root :to => "posts#index"
+ 
  
 end
